@@ -11,5 +11,6 @@ public class MainA
         // 출력하기
         System.out.println(a+b);
         System.out.println(a-b);
+        System.out.println(a*b);
     }
 }
